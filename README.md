@@ -37,7 +37,7 @@ The goal is to support **policy analysis, cost management, and market research**
 
 ## 🛠️ Tools & Tech
 
-- **Power BI** (or Tableau / Excel — update based on your tool)  
+- **Power BI** 
 - **Data Preparation**: Power Query / SQL / Python (Pandas)  
 - **Visualization Best Practices** for BI dashboards  
 
